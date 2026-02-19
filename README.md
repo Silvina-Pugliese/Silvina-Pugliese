@@ -1,6 +1,6 @@
 Hola, soy Silvina 👋
 
-“Hay demasiada información y datos. Lo que realmente importa es dar sentido a la información más relevante y generar valor con ella, y eso es un esfuerzo profundamente humano.” - Silvina.
+“Hay demasiada información y datos. Lo que realmente importa es dar sentido a la información y generar valor con ella. Eso es un esfuerzo profundamente humano.” - Silvina.
 
 Actualmente trabajo en el área de ferrocarriles, analizando datos y creando modelos para mejorar la eficiencia y generar información de alta calidad para informar decisiones importantes.
 
