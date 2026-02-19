@@ -6,7 +6,7 @@ Actualmente trabajo en el área de ferrocarriles, analizando datos y creando mod
 
 En mi tiempo personal estoy activa en comunidades open source y comparto ideas sobre datos y tecnología en distintos formatos.
 
-- Perfil profesional: [LinkedIn](https://www.linkedin.com/in/silvina-pugliese/)
-- Escritura creativa y análisis: [Newsletter](https://thinkdatalab.substack.com/)
-- Conversaciones con líderes en datos e información: [YouTube](https://www.youtube.com/@silvina_pugliese)
+- Perfil profesional: <a href="https://www.linkedin.com/in/silvina-pugliese/" target="_blank">LinkedIn</a>
+- Escritura creativa y análisis: <a href="https://thinkdatalab.substack.com/" target="_blank">Substack</a>
+
 
